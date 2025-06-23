@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Unish Shilpakar
 
-I'm a passionate software developer from Nepal, specializing in Web Development, C++, and DevOps.
+I'm a passionate learner from Nepal.
 
 ---
 
 ## 🚀 Currently Working On
 
-- Developing an interactive tourism guide website for Nepal 🏔️
-- Learning Kubernetes and Docker for better DevOps skills
-- Exploring React Native for mobile app development 📱
+- I am exploring new skills to grow.
+- I am exploring new skills to grow
 
 ---
 
@@ -31,30 +30,13 @@ I'm a passionate software developer from Nepal, specializing in Web Development,
 
 ---
 
-## 🏆 Featured Projects
-
-### [Tourism Guide Nepal](https://github.com/unish001/tourism-guide-nepal)  
-Interactive website helping tourists explore Nepal with tips, maps, and cultural info.
-
-### [DevOps Automation Scripts](https://github.com/unish001/devops-scripts)  
-Collection of scripts automating Docker and Kubernetes workflows.
-
----
-
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/unish-shilpakar)  
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:unish.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shilpakar-unish-249233341/)  
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:unishshilpakar01@gmail.com)  
 
 ---
 
-## 🌱 What I’m Learning
-
-- Advanced Docker and Kubernetes  
-- Cloud Platforms: AWS, Azure  
-- Mobile App Development with React Native  
-
----
 
 ## 🎯 Goals & Interests
 
