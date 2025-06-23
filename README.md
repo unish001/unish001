@@ -1,13 +1,7 @@
 # 👋 Hi, I'm Unish Shilpakar
 
-I'm a passionate learner from Nepal.
+I'm a passionate learner from Nepal. I am exploring new skills to grow.
 
----
-
-## 🚀 Currently Working On
-
-- I am exploring new skills to grow.
-- I am exploring new skills to grow
 
 ---
 
